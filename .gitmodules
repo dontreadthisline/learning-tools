@@ -1,9 +1,9 @@
 [submodule "exercises/learning-lm-rs"]
 	path = exercises/learning-lm-rs
-	url = https://github.com/wawahejun/learning-lm-rs
+	url = git@github.com:dontreadthisline/learning-lm-rs.git
 [submodule "exercises/rustlings"]
 	path = exercises/rustlings
-	url = https://github.com/wawahejun/rustlings-completed-version
+	url = git@github.com:dontreadthisline/rustlings.git
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
-	url = https://github.com/wawahejun/learning-cxx
+	url = git@github.com:dontreadthisline/learning-cxx.git
