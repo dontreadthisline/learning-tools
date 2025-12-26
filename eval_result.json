@@ -2,19 +2,19 @@
   "exercises": [
     {
       "name": "exercise00",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise01",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise02",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise03",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise04",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 0,
-    "total_failures": 34,
-    "total_time": 16
+    "total_succeeds": 4,
+    "total_failures": 30,
+    "total_time": 17
   }
 }
