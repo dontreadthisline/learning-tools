@@ -18,59 +18,59 @@
     },
     {
       "name": "exercise04",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise05",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise06",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise07",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise08",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise09",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise10",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise11",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise12",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise13",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise14",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise15",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise16",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise17",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise18",
@@ -98,7 +98,7 @@
     },
     {
       "name": "exercise24",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise25",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 4,
-    "total_failures": 30,
-    "total_time": 17
+    "total_succeeds": 19,
+    "total_failures": 15,
+    "total_time": 8
   }
 }
